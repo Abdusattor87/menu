@@ -6,7 +6,7 @@
   "name": "Первое блюдо",
   "image": "Photos/Реза_шурбо_cTw3LpB.jpg"
  }
-},
+},s
 {
  "model": "menu_app.category",
  "pk": 2,
