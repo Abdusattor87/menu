@@ -28,5 +28,51 @@
    3
   ]
  }
+},
+{
+ "model": "menu_app.product",
+ "pk": 3,
+ "fields": {
+  "name": "Салат немецкий",
+  "category": 3,
+  "image": "Photos/Салат_немецкий.jpg",
+  "price": "20",
+  "compound": [
+   1,
+   2,
+   3,
+   5
+  ]
+ }
+},
+{
+ "model": "menu_app.product",
+ "pk": 4,
+ "fields": {
+  "name": "Шашлык говядина",
+  "category": 4,
+  "image": "Photos/Шашлык.jpg",
+  "price": "20",
+  "compound": [
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "menu_app.product",
+ "pk": 5,
+ "fields": {
+  "name": "Рассольник",
+  "category": 1,
+  "image": "Photos/Рассолник_XIKrH7t.jpg",
+  "price": "10",
+  "compound": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
 }
 ]

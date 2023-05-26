@@ -14,5 +14,29 @@
   "name": "Гарниры",
   "image": "Photos/гарнир_TUUi3yV.jpg"
  }
+},
+{
+ "model": "menu_app.category",
+ "pk": 3,
+ "fields": {
+  "name": "Салаты",
+  "image": "Photos/Холодные_блюда_и_закуски.jpg"
+ }
+},
+{
+ "model": "menu_app.category",
+ "pk": 4,
+ "fields": {
+  "name": "Шашлыки",
+  "image": "Photos/Шашлики_Гов_180_г.jpg"
+ }
+},
+{
+ "model": "menu_app.category",
+ "pk": 5,
+ "fields": {
+  "name": "Второе блюдо",
+  "image": "Photos/1.jpg"
+ }
 }
 ]
