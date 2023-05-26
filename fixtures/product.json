@@ -1,0 +1,32 @@
+[
+{
+ "model": "menu_app.product",
+ "pk": 1,
+ "fields": {
+  "name": "Реза шурбо",
+  "category": 1,
+  "image": "Photos/Реза_шурбо_iicDOXl.jpg",
+  "price": "12",
+  "compound": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+},
+{
+ "model": "menu_app.product",
+ "pk": 2,
+ "fields": {
+  "name": "Картошка фри",
+  "category": 2,
+  "image": "Photos/фри_Ones4zT.jpg",
+  "price": "8",
+  "compound": [
+   1,
+   3
+  ]
+ }
+}
+]
