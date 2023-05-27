@@ -42,5 +42,6 @@ Default password: 123
 (http://localhost:8000/api/menu/category/1) - to search by category (where 1 is the category id)
 
 
+ Open Swagger API documentation   (http://localhost:8000/schema/swagger/)
 
  
