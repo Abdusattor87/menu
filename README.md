@@ -43,4 +43,4 @@ Default password: 123
 
 
 
- 
+ Open Swagger API documentation   (http://localhost:8000/schema/swagger/)
