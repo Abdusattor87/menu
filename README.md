@@ -44,6 +44,6 @@ Default password: 123
 
  Open Swagger API documentation   (http://localhost:8000/schema/swagger/)
  
- ![alt text](ERM.jpg)
+ ![alt text](ERM.JPG)
 
  
