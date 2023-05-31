@@ -46,7 +46,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_dump_load_utf8', 
     'drf_spectacular',
-    "menu_app", # <-- название нашего приложения
+    'categories',
+    'product', # <-- название нашего приложения
+    "compound", # <-- название нашего приложения
 ]
 
 MIDDLEWARE = [
@@ -120,7 +122,6 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
-
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/

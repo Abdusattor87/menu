@@ -1,0 +1,34 @@
+[
+{
+ "model": "categories.category",
+ "pk": 1,
+ "fields": {
+  "name": "Первое блюдо",
+  "image": "Photos/Cуп_из_сушеных_грибов_s8nkz0Y.jpg"
+ }
+},
+{
+ "model": "categories.category",
+ "pk": 2,
+ "fields": {
+  "name": "Шашлык",
+  "image": "Photos/Шашлык_ZYNZaj1.jpg"
+ }
+},
+{
+ "model": "categories.category",
+ "pk": 3,
+ "fields": {
+  "name": "Гарниры",
+  "image": "Photos/гарнир_caMQDjc.jpg"
+ }
+},
+{
+ "model": "categories.category",
+ "pk": 4,
+ "fields": {
+  "name": "Второе блюдо",
+  "image": "Photos/1_sVyuMV3.jpg"
+ }
+}
+]

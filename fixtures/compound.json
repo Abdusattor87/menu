@@ -1,37 +1,30 @@
 [
 {
- "model": "menu_app.compound",
+ "model": "compound.compound",
  "pk": 1,
  "fields": {
   "name": "Картошка"
  }
 },
 {
- "model": "menu_app.compound",
+ "model": "compound.compound",
  "pk": 2,
  "fields": {
   "name": "Лук"
  }
 },
 {
- "model": "menu_app.compound",
+ "model": "compound.compound",
  "pk": 3,
  "fields": {
   "name": "Под. масло"
  }
 },
 {
- "model": "menu_app.compound",
+ "model": "compound.compound",
  "pk": 4,
  "fields": {
   "name": "Мясо"
- }
-},
-{
- "model": "menu_app.compound",
- "pk": 5,
- "fields": {
-  "name": "Сыр"
  }
 }
 ]

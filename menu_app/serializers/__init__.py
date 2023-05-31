@@ -1,4 +1,0 @@
-from .compoundSerializer import CompoundSerializer
-from .categorySerializer import CategorySerializer
-from .productSerializer import ProductSerializer
-from .productSerializerNoCat import ProductSerializerNoCat

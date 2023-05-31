@@ -1,12 +1,26 @@
 [
 {
- "model": "menu_app.product",
+ "model": "product.product",
  "pk": 1,
  "fields": {
   "name": "Реза шурбо",
   "category": 1,
-  "image": "Photos/Реза_шурбо_iicDOXl.jpg",
-  "price": "12",
+  "image": "Photos/Cуп_из_сушеных_грибов_5Y4RHf5.jpg",
+  "price": "12.00",
+  "compound": [
+   1,
+   2
+  ]
+ }
+},
+{
+ "model": "product.product",
+ "pk": 2,
+ "fields": {
+  "name": "Рассольник",
+  "category": 1,
+  "image": "Photos/Cуп_из_сушеных_грибов_HW9efsc.jpg",
+  "price": "10.00",
   "compound": [
    1,
    2,
@@ -16,13 +30,27 @@
  }
 },
 {
- "model": "menu_app.product",
- "pk": 2,
+ "model": "product.product",
+ "pk": 3,
+ "fields": {
+  "name": "Шашлык говядина",
+  "category": 2,
+  "image": "Photos/Шашлики_Гов_180_г.jpg",
+  "price": "20.00",
+  "compound": [
+   2,
+   4
+  ]
+ }
+},
+{
+ "model": "product.product",
+ "pk": 4,
  "fields": {
   "name": "Картошка фри",
-  "category": 2,
-  "image": "Photos/фри_Ones4zT.jpg",
-  "price": "8",
+  "category": 3,
+  "image": "Photos/фри.jpg",
+  "price": "10.00",
   "compound": [
    1,
    3
@@ -30,47 +58,30 @@
  }
 },
 {
- "model": "menu_app.product",
- "pk": 3,
+ "model": "product.product",
+ "pk": 5,
  "fields": {
-  "name": "Салат немецкий",
-  "category": 3,
-  "image": "Photos/Салат_немецкий.jpg",
-  "price": "20",
+  "name": "Мясо по китайский",
+  "category": 4,
+  "image": "Photos/1_BtBLyGl.jpg",
+  "price": "35.00",
   "compound": [
    1,
-   2,
    3,
-   5
-  ]
- }
-},
-{
- "model": "menu_app.product",
- "pk": 4,
- "fields": {
-  "name": "Шашлык говядина",
-  "category": 4,
-  "image": "Photos/Шашлык.jpg",
-  "price": "20",
-  "compound": [
-   2,
    4
   ]
  }
 },
 {
- "model": "menu_app.product",
- "pk": 5,
+ "model": "product.product",
+ "pk": 6,
  "fields": {
-  "name": "Рассольник",
-  "category": 1,
-  "image": "Photos/Рассолник_XIKrH7t.jpg",
-  "price": "10",
+  "name": "Шашлык фаршированный",
+  "category": 2,
+  "image": "Photos/Без_названия.jpg",
+  "price": "19.00",
   "compound": [
-   1,
    2,
-   3,
    4
   ]
  }
