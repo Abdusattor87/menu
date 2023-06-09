@@ -6,7 +6,7 @@ admin.site.unregister(Group)
 
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
-     
+    
     list_display=("name","category_counts")
     search_fields=("name",)
 

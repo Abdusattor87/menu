@@ -3,7 +3,7 @@ from rest_framework import routers
 from product.views import MenuViewSet,ProductByCategory
 
 router = routers.DefaultRouter()   
-router.register("menuinfo", MenuViewSet, "menuinfo")   
+router.register("", MenuViewSet, "menuinfo")   
  
  
 urlpatterns = [

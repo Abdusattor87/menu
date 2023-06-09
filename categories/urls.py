@@ -1,9 +1,9 @@
 from django.urls import path, include
 from rest_framework import routers
-from categories.views import Categorylist 
+from categories.views import CategoryViewSet
 
 router = routers.DefaultRouter()  
-router.register("categorylist", Categorylist, "categorylist")  
+router.register("", CategoryViewSet, "categorylist")  
 
 
 

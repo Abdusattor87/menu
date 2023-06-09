@@ -5,7 +5,7 @@ from categories.models import Category
 from categories.serializers import  CategorySerializer
 
  
-class Categorylist(ModelViewSet):
+class CategoryViewSet(ModelViewSet):
 
     permission_classes = [AllowAny]
     queryset = Category.objects.all()
