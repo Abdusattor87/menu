@@ -40,12 +40,11 @@ Default password: 123
 (http://localhost:8000/api/product/category/1) - to search by category (where 1 is the category id)
 
 
-<<<<<<< HEAD
-Open Swagger API documentation   (http://localhost:8000/schema/swagger/)
-=======
- Open Swagger API documentation   (http://localhost:8000/schema/swagger/)
+ (http://localhost:8000/schema/swagger/) -  Open Swagger API documentation  
  
- ![alt text](ERM.JPG)
+ 
+ ERM diagramma:
+
+ ![alt text](Photos/ERM.JPG)
 
  
->>>>>>> 315ac271e1bdd88c3037b153c86b1662d3766c22
