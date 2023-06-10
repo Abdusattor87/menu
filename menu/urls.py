@@ -23,6 +23,7 @@ urlpatterns = [
     #path("api/menu/", include('menu_app.urls')),
     path("api/product/", include('product.urls')),
     path("api/categories/", include('categories.urls')),
+    path('api/v1/auth-jwt/', include('authentification.api.jwt.urls')),
 ]
 
  
