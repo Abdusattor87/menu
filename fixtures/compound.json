@@ -3,28 +3,28 @@
  "model": "compound.compound",
  "pk": 1,
  "fields": {
-  "name": "Картошка"
+  "name": "Лук"
  }
 },
 {
  "model": "compound.compound",
  "pk": 2,
  "fields": {
-  "name": "Лук"
+  "name": "Мясо"
  }
 },
 {
  "model": "compound.compound",
  "pk": 3,
  "fields": {
-  "name": "Под. масло"
+  "name": "Картошка"
  }
 },
 {
  "model": "compound.compound",
  "pk": 4,
  "fields": {
-  "name": "Мясо"
+  "name": "Под. масло"
  }
 }
 ]

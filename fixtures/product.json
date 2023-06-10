@@ -3,13 +3,15 @@
  "model": "product.product",
  "pk": 1,
  "fields": {
-  "name": "Реза шурбо",
+  "name": "Рассольник",
   "category": 1,
-  "image": "Photos/Cуп_из_сушеных_грибов_5Y4RHf5.jpg",
-  "price": "12.00",
+  "image": "Photos/Cуп_из_сушеных_грибов_fhbL8PA.jpg",
+  "price": "10.00",
   "compound": [
    1,
-   2
+   2,
+   3,
+   4
   ]
  }
 },
@@ -17,13 +19,11 @@
  "model": "product.product",
  "pk": 2,
  "fields": {
-  "name": "Рассольник",
-  "category": 1,
-  "image": "Photos/Cуп_из_сушеных_грибов_HW9efsc.jpg",
-  "price": "10.00",
+  "name": "Картошка фри",
+  "category": 2,
+  "image": "Photos/фри_3kfaMdz.jpg",
+  "price": "12.00",
   "compound": [
-   1,
-   2,
    3,
    4
   ]
@@ -34,12 +34,12 @@
  "pk": 3,
  "fields": {
   "name": "Шашлык говядина",
-  "category": 2,
-  "image": "Photos/Шашлики_Гов_180_г.jpg",
+  "category": 4,
+  "image": "Photos/Шашлык_Dv98Vyo.jpg",
   "price": "20.00",
   "compound": [
-   2,
-   4
+   1,
+   2
   ]
  }
 },
@@ -47,13 +47,13 @@
  "model": "product.product",
  "pk": 4,
  "fields": {
-  "name": "Картошка фри",
-  "category": 3,
-  "image": "Photos/фри.jpg",
-  "price": "10.00",
+  "name": "Шашлык фаршированный",
+  "category": 4,
+  "image": "Photos/Без_названия_HVEeglw.jpg",
+  "price": "19.00",
   "compound": [
    1,
-   3
+   2
   ]
  }
 },
@@ -61,12 +61,13 @@
  "model": "product.product",
  "pk": 5,
  "fields": {
-  "name": "Мясо по китайский",
-  "category": 4,
-  "image": "Photos/1_BtBLyGl.jpg",
-  "price": "35.00",
+  "name": "Мясо по китайски",
+  "category": 5,
+  "image": "Photos/1_sVyuMV3_YZ6z1rJ.jpg",
+  "price": "20.00",
   "compound": [
    1,
+   2,
    3,
    4
   ]
@@ -76,12 +77,12 @@
  "model": "product.product",
  "pk": 6,
  "fields": {
-  "name": "Шашлык фаршированный",
+  "name": "Пюре",
   "category": 2,
-  "image": "Photos/Без_названия.jpg",
-  "price": "19.00",
+  "image": "Photos/Пюре_rpqCz7G.jpg",
+  "price": "11.00",
   "compound": [
-   2,
+   3,
    4
   ]
  }

@@ -1,0 +1,20 @@
+[
+{
+ "model": "users.user",
+ "pk": 1,
+ "fields": {
+  "password": "pbkdf2_sha256$600000$BzkUyDgzh9YvFanInKSkzG$KQbIRL8g3+7V5iE8KW18JGzJiV48zugBAUffcIBrPe8=",
+  "last_login": "2023-06-10T04:38:06.656Z",
+  "is_superuser": true,
+  "username": "admin",
+  "first_name": "",
+  "last_name": "",
+  "email": "email@mail.ru",
+  "is_staff": true,
+  "is_active": true,
+  "date_joined": "2023-06-10T04:37:38.329Z",
+  "groups": [],
+  "user_permissions": []
+ }
+}
+]

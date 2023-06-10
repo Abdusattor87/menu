@@ -1,6 +1,6 @@
 [
 {
- "model": "menu_app.category",
+ "model": "categories.category",
  "pk": 1,
  "fields": {
   "name": "Первое блюдо",
@@ -8,7 +8,7 @@
  }
 },
 {
- "model": "menu_app.category",
+ "model": "categories.category",
  "pk": 2,
  "fields": {
   "name": "Гарниры",
@@ -16,7 +16,7 @@
  }
 },
 {
- "model": "menu_app.category",
+ "model": "categories.category",
  "pk": 3,
  "fields": {
   "name": "Салаты",
@@ -24,7 +24,7 @@
  }
 },
 {
- "model": "menu_app.category",
+ "model": "categories.category",
  "pk": 4,
  "fields": {
   "name": "Шашлыки",
@@ -32,7 +32,7 @@
  }
 },
 {
- "model": "menu_app.category",
+ "model": "categories.category",
  "pk": 5,
  "fields": {
   "name": "Второе блюдо",

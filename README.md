@@ -14,7 +14,7 @@ python manage.py migrate
 
 3) Load fixtures
 ```
-py manage.py loaddatautf8 fixtures/user.json
+py manage.py loaddatautf8 fixtures/users.json
 py manage.py loaddatautf8 fixtures/compound.json
 py manage.py loaddatautf8 fixtures/category.json
 py manage.py loaddatautf8 fixtures/product.json
@@ -47,4 +47,9 @@ Default password: 123
 
  ![alt text](Photos/ERM.JPG)
 
+ Exampl
+
+ ![alt text](Photos/Category.JPG)
+
+ ![alt text](Photos/product.jpg)
  
